@@ -37,6 +37,7 @@ pip install -r requirements.txt
 
 - Download the Cats vs Dogs dataset (e.g., from Kaggle Dogs vs Cats
 ).
+- https://www.kaggle.com/datasets/shaunthesheep/microsoft-catsvsdogs-dataset
 
 - Update dataset path in split.py if needed.
 
